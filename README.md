@@ -1,6 +1,6 @@
 <!-- **************************************************Intro***************************************************** -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCD702&center=falso&vCenter=falso&repeat=falso&random=falso&width=500&lines=Tudo+o+que+o+seu+carro+precisa,+em+um+só+lugar...;Mais+do+que+peças,+soluções+para+o+seu+carro...;WR+Auto+Peças;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCD702&center=falso&vCenter=falso&repeat=falso&random=falso&width=500&lines=Tudo+o+que+o+seu+carro+precisa...;em+um+só+lugar!;WR+Auto+Peças;)](https://git.io/typing-svg)
 
 <div>
   <img align="right" height="195px" alt="WR" src="https://github.com/WR-Auto-Pecas/WR-Auto-Pecas/blob/cac5f05e992d4b354e48b8e93615dca4cd8dac16/resource/logo/logo_sem_fundo.png" style="flex-shrink: 0;" />
