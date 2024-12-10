@@ -5,7 +5,7 @@
 <div>
   <img align="right" height="195px" alt="WR" src="https://github.com/WR-Auto-Pecas/WR-Auto-Pecas/blob/cac5f05e992d4b354e48b8e93615dca4cd8dac16/resource/logo/logo_sem_fundo.png" style="flex-shrink: 0;" />
   <p>
-    Fundada no ano de 1992 em Belo Horizonte, a WR Auto Peças é uma das principais fornecedoras de peças de reposição automotivas que atende tanto a lojas profissionais quanto a clientes do tipo "Faça você mesmo".  
+    Fundada no ano de 1991 em Belo Horizonte, a WR Auto Peças é uma das principais fornecedoras de peças de reposição automotivas que atende tanto a lojas profissionais quanto a clientes do tipo "Faça você mesmo".  
     Na WR, sabemos que nosso pessoal faz a maior diferença na experiência de atendimento de nossos clientes.  
     Desde o contato em nossas lojas até nossos negócios em oficinas profissionais, buscamos oferecer serviços excepcionais a nossos clientes, comunidades e uns aos outros todos os dias.  
     Com nossa presença na capital de Minas Gerais, utilizamos nossos conselhos úteis automotivos e acesso a milhares de peças para continuar avançando em um mundo em movimento para vários clientes que atendemos a cada ano.
