@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCD702&center=falso&vCenter=falso&repeat=falso&random=falso&width=500&lines=Tudo+o+que+o+seu+carro+precisa...;em+um+só+lugar!;WR+Auto+Peças;)](https://git.io/typing-svg)
 
 <div>
-  <img align="right" height="195px" alt="WR" src="https://github.com/WR-Auto-Pecas/WR-Auto-Pecas/blob/cac5f05e992d4b354e48b8e93615dca4cd8dac16/resource/logo/logo_sem_fundo.png" style="flex-shrink: 0;" />
+  <img align="right" height="195px" alt="WR" src="https://github.com/WRAutoPecas/WRAutoPecas/blob/3941dc1517c33b43d32b008df89bbd6380a50e9e/resource/logo/logo.png" style="flex-shrink: 0;" />
   <p>
     Fundada no ano de 1991 em Belo Horizonte, a WR Auto Peças é uma das principais fornecedoras de peças de reposição automotivas que atende tanto a lojas profissionais quanto a clientes do tipo "Faça você mesmo".  
     Na WR, sabemos que nosso pessoal faz a maior diferença na experiência de atendimento de nossos clientes.  
